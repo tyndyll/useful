@@ -20,3 +20,7 @@ udcm.yahoo.com
 fwtracks.freshmarketer.com
 ads-api.tiktok.com
 adtech.yahooinc.com
+tools.mouseflow.com
+browser.sentry-cdn.com
+adtech.yahooinc.com
+weather-analytics-events.apple.com
