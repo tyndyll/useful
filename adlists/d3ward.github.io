@@ -1,10 +1,10 @@
 weather-analytics-events.apple.com
-notify.bugsnag.com - blocked
+notify.bugsnag.com
 cdn-test.mouseflow.com
 surveys.hotjar.com
 adm.hotjar.com
 identify.hotjar.com
-notes-analytics-events.apple.com - blocked
+notes-analytics-events.apple.com
 claritybt.freshmarketer.com
 api.luckyorange.com
 realtime.luckyorange.com
